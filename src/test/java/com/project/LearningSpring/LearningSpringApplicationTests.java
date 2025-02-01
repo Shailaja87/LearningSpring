@@ -10,4 +10,8 @@ class LearningSpringApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void LoadTest(){
+		System.out.println("Shailaja is mad");
+	}
 }
